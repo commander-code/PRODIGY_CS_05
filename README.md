@@ -1,7 +1,5 @@
 
 
-**README.md**
-
 ## Scapy Packet Sniffer
 
 This script demonstrates live network traffic sniffing using the Scapy library in Python. It captures packets, extracts source and destination IPs, protocol information, and attempts to decode the payload for TCP and UDP packets.

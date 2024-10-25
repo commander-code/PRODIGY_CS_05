@@ -1,4 +1,4 @@
-I'd be glad to create a comprehensive README.md documentation for the provided Scapy packet sniffer script:
+
 
 **README.md**
 
